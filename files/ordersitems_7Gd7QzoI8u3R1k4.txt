@@ -1,0 +1,1 @@
+<tr><td>101352</td><td>Кровать Миа</td><td>1</td><td>18000 руб.</td></tr><br><tr><td>101353</td><td>Кровать Сан-Марино</td><td>1</td><td>16000 руб.</td></tr><br><tr><td style="background:#e6e6fa;"><b>Итого к оплате: </b></td><td style="background:#e6e6fa; text-align: right; padding-right:40px;" colspan="4"><b>34000 руб.</b></td></tr>
